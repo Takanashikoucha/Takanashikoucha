@@ -1,0 +1,5 @@
+# Local build/render sandbox (headless Chrome, npm modules, fonts)
+.build/
+
+# Scratch / fetched reference data
+.data/
